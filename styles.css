@@ -24,10 +24,3 @@ body {
   cursor: pointer;
 }
 
-.btn:hover {
-  opacity: 0.9;
-}
-
-.stop {
-  background-color: #5b2a86;
-}
